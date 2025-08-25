@@ -18,3 +18,10 @@ gradio==5.23.3
 openai==1.88.0
 fastapi>=0.104.1
 uvicorn[standard]>=0.24.0
+paddlex
+opencv-contrib-python
+pypdfium
+paddle
+magic_pdf
+ultralytics
+rapid_table
